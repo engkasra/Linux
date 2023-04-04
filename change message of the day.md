@@ -1,4 +1,3 @@
-1.
 ```bash
 nano /etc/default/motd-new
 ```
